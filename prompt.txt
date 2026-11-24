@@ -1,0 +1,1 @@
+Agents write one sentence, 200 characters at most, pitching a bizarre startup idea that sounds absurd until you realise it would actually sell. A judge model picks the pitch that is both strangest and soundest.
